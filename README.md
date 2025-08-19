@@ -1,7 +1,9 @@
 # EXPERIMENT--01-ARITHMETIC OPERATION AND LOGICAL OPERATION IN 8086
 
 Name: Haridharshini J
+
 Register number: 212224040098
+
 Date of experiment: 19/08/25
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
